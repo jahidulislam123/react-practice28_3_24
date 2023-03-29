@@ -1,0 +1,26 @@
+[
+    {
+        "name":"jahidul",
+        "age":"2",
+        "school":"barura",
+        "district":"comilla"
+    },
+    {
+        "name":"robiul",
+        "age":"203",
+        "school":"karuara",
+        "district":"sazi"
+    },
+    {
+        "name":"desi",
+        "age":"24",
+        "school":"narura",
+        "district":"mazi"
+    },
+    {
+        "name":"mesi",
+        "age":"25",
+        "school":"larura",
+        "district":"hazi"
+    }
+]

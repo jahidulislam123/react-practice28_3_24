@@ -15,6 +15,10 @@ const Home = () => {
             <h4>I will get data from backend </h4>
             console.log({data.length})
 
+            {
+                data.map()
+            }
+
 
             
         </div>
